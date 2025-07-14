@@ -4,7 +4,9 @@ Python script that creates a simple local HTML page file from exported HTML file
 </br>
 
 ## TODO
-- Making test input page and output page
+- Test input and output page
+- Translation of the code into English
+- More info into README file
 
 </br>
 </br>
